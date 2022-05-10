@@ -1,0 +1,4 @@
+npm:           node的package管理工具
+                   package.json文件查看依赖
+vite:            构建工具
+Vanilla JS：世界上最轻量的JavaScript框架
